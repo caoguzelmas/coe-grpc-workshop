@@ -7,7 +7,10 @@ option java_multiple_files = true;
 option java_package = "com.caoguzelmas.models";
 
 message Person {
-  string name = 1;
+  // 1 - 15 -> 1 byte
+  // 16 - 2047 -> 2 bytes
+
+  string name = 1; // => tags
   int32 age = 2;
   common.Address address = 3;
   repeated common.Car car = 4;

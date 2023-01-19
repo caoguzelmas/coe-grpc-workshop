@@ -17,4 +17,5 @@ enum BodyStyle {
   SEDAN = 1;
   COUPE = 2;
   SUV = 3;
+  HATCHBACK = 4;
 }
