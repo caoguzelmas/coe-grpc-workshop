@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bi-directional-streaming-rpc" />
         <module name="unary-rpc" />
         <module name="server-streaming-rpc" />
         <module name="demo" />
