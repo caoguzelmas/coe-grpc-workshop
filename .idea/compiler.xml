@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="unary-rpc" />
         <module name="server-streaming-rpc" />
         <module name="demo" />
-        <module name="unary-rpc" />
+        <module name="client-streaming-rpc" />
       </profile>
     </annotationProcessing>
   </component>

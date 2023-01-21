@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/unary-rpc/pom.xml" />
         <option value="$PROJECT_DIR$/server-streaming-rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/client-streaming-rpc/pom.xml" />
       </list>
     </option>
   </component>
