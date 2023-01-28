@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/client-streaming-rpc/pom.xml" />
         <option value="$PROJECT_DIR$/bi-directional-streaming-rpc/pom.xml" />
         <option value="$PROJECT_DIR$/snakes-and-ladders-game/pom.xml" />
+        <option value="$PROJECT_DIR$/load-balancing/pom.xml" />
       </list>
     </option>
   </component>
